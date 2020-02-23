@@ -28,10 +28,15 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
+permalink: pretty
+exclude: ["README.md"]
 
+search_enabled: true
 # Build settings
 #theme: minima
 remote_theme: pmarsceill/just-the-docs
+
+color_scheme: nil
 
 plugins:
   - jekyll-feed
