@@ -1,6 +1,6 @@
 ---
 title: MPC Use Cases
-parent: MPC wiki
+parent: main
 has_children: true
 nav_order: 1
 ---
